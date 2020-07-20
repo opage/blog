@@ -1,0 +1,10 @@
+ghost:
+  username: opage
+  name: Olivier Page
+  url_full: http://opage.github.io/blog/
+  url: opage.github.io/blog
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  facebook: opage
+  twitter: olivierpage
+  cover: false
